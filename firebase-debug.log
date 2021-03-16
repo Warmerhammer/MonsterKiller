@@ -1,0 +1,25 @@
+[debug] [2021-03-16T06:21:58.836Z] ----------------------------------------------------------------------
+[debug] [2021-03-16T06:21:58.838Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Richard\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-03-16T06:21:58.838Z] CLI Version:   9.6.1
+[debug] [2021-03-16T06:21:58.838Z] Platform:      win32
+[debug] [2021-03-16T06:21:58.838Z] Node Version:  v14.14.0
+[debug] [2021-03-16T06:21:58.839Z] Time:          Mon Mar 15 2021 23:21:58 GMT-0700 (Pacific Daylight Time)
+[debug] [2021-03-16T06:21:58.839Z] ----------------------------------------------------------------------
+[debug] [2021-03-16T06:21:58.839Z] 
+[debug] [2021-03-16T06:21:58.843Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-03-16T06:21:58.844Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Richard\GitProjects\monster-killer-starting-project
+
+Before we get started, keep in mind:
+
+  * You are initializing in an existing Firebase project directory
+
